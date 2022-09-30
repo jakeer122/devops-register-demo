@@ -1,6 +1,6 @@
-Feature: To test the get end point of the application
+Feature: To test the get end point of the application - CICD
   To test different get end point with different data formate supported by the application
-
+ 
   Background: Setup the Base path
     Given url 'http://localhost:9191'
     And print '========== This is Background Keyword ================='
