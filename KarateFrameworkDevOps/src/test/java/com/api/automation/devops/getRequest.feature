@@ -4,6 +4,7 @@ Feature: To test the get end point of the application - CICD
   Background: Setup the Base path
     Given url 'http://localhost:9191'
     And print '========== This is Background Keyword ================='
+    And print '========== CI CD Implemented ================='
 
   Scenario: To get all the data from application in JSON format
     #Given url 'http://localhost:9191/normal/webapi/all'
