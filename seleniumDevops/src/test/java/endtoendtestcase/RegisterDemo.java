@@ -38,6 +38,7 @@ public class RegisterDemo {
 	String queryInput="how much cost";
 	String verificationCode="99";
 	String actSucessCode= "Registration Form is Successfully Submitted";
+	String add ="added";
 
 	String qaAutomation="//*[@id=\"menu-item-4131\"]/a";
 	String practice="//*[@id=\"menu-item-4157\"]/a/span/text()";
