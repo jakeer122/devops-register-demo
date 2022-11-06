@@ -63,6 +63,7 @@ public class RegisterDemo {
 	String submitButton ="vfb-4";
 	String sucessCode ="//div[@class='elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7e205e7c']//div[@class='elementor-widget-container']//div[1]";
 	String jak = "jakeer";
+	String anwar ="Anwar";
 
 
 	//it will execte on alphabetical order now we change to priority
